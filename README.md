@@ -4,7 +4,7 @@
   alt="孙子Agent">
 </div>
 
-# SunziAgent
+# [孙子Agent](https://sunziagent.com "孙子Agent")
 
 把机器人当做孙子一样来看待，会怎么样？
 
