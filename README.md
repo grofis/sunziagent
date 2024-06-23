@@ -1,4 +1,8 @@
-![孙子Agent](./docs/img/automator-icon.png "孙子Agent")  
+<div align="center">
+  <img src="./docs/img/automator-icon.png" 
+  width="200"
+  alt="孙子Agent">
+</div>
 
 # SunziAgent
 
