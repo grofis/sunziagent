@@ -1,3 +1,5 @@
+![孙子Agent](./docs/img/automator-icon.png "孙子Agent")  
+
 # SunziAgent
 
 把机器人当做孙子一样来看待，会怎么样？
